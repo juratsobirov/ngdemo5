@@ -23,7 +23,7 @@ SignUp_Page
 
 
 
-##Feed_page
+Feed_page
 ![photo_2024-07-08_23-16-45](https://github.com/juratsobirov/ngdemo5/assets/171447978/c6e9801e-76d5-4609-9a4b-5ee3b631c522)
 
 
