@@ -4,13 +4,23 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#Instagram_SplashPage
+![photo_2024-07-08_23-16-44](https://github.com/juratsobirov/ngdemo5/assets/171447978/75c5134e-047d-4fa8-90db-59c3e03f0dc8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#SignIn_Page
+![photo_2024-07-08_23-16-44 (2)](https://github.com/juratsobirov/ngdemo5/assets/171447978/bcefc8ee-eedc-49ec-b6dc-fcf1a2a6cfc4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+#SignUp_Page
+![photo_2024-07-08_23-16-44 (3)](https://github.com/juratsobirov/ngdemo5/assets/171447978/a9076763-b21c-4612-a219-ffb99e4c9d23)
+
+
+
+#Feed_page
+![photo_2024-07-08_23-16-45](https://github.com/juratsobirov/ngdemo5/assets/171447978/c6e9801e-76d5-4609-9a4b-5ee3b631c522)
+
+
+
+
+
